@@ -11,4 +11,4 @@ I enjoy learning about information security trends, and playing with data struct
 
 # Portfolio
 
-<iframe src="https://data.oecd.org/chart/5s2n" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
+<a href="https://data.oecd.org/chart/5s2n" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a>
