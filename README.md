@@ -12,7 +12,7 @@ I enjoy learning about information security trends, and playing with data struct
 # Portfolio
 Below are my assignments from CMU's Heinz College Spring 2019 Telling Stories with Data:
 
-#OECD Data
+# OECD Data
 
 2015 OECD Annual General Government Debt as a Ratio of Total Percentage of GDP
 Bar Chart:
