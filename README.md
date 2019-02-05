@@ -57,7 +57,7 @@ To redesign the CSO graphic, I first considered the article's audience and how t
 
 Wireframe Redesign
 
-![wireframe_redesign](https://user-images.githubusercontent.com/40642322/52250609-a4800600-28c6-11e9-86b4-2410247560b2.jpeg)
+![wireframe_redesign_1](https://user-images.githubusercontent.com/40642322/52250755-58819100-28c7-11e9-88cc-7f11d45af6ae.jpeg)
 
 Upon asking classmates for a data review, both feedback reports questioned if it would be possible to include more information about what account information was disclosed in the account breaches. For the user feedback, neither review was derived from a security professional, yet both accounts asked for more information to better understand and compare the nature of the cyberattacks. If consumers are going to respond to data breaches, it is imperative that they understand how their accounts were affected, and displaying the data in a clear format may be the first step. This feedback resulted in the interactive redesign that includes the company, the year of the breach, and a brief description of how each account was affected. 
 
