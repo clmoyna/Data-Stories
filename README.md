@@ -47,8 +47,11 @@ The steamgraph includes a color scale, and the graph's lines include lables, whi
 Original Data Source:
 https://www.csoonline.com/article/2130877/data-breach/the-biggest-data-breaches-of-the-21st-century.html
 Author: Taylor Armerding
+
 Title:The 18 biggest data reaches of the 21st century
+
 Year: December 20, 2018
+
 Publisher: CSO Online
 
 The above visualization displays a horizontal bar graph, which visualizes the number of accounts compromised in the 21st century's largest data breaches. As a student of information security, I am interested not only in how large organizations' internal and customer accounts are hacked, but also how consumers and employees responses to the theft and exposure of credentials and personal information. The CSO graphic and accompanying article explains how billions of individuals have had their personal and financial information exposed in recent breaches, however, all of the businesses displayed in the graphic remain in operation. At this time, consumers do not seem concerned about the exposure of their private information. However, if data related to cyberattacks were displayed in a different format, would the public have a different response to large breaches?  
