@@ -63,7 +63,7 @@ Upon asking classmates for a data review, both feedbacks responded that it would
 
 Similar to the wireframe, the redesign displays a packed bubble chart. Unlike the original design, the companies are not arranged in chronological order, but rather each company is represented by a bubble scaled to display the volume of affected accounts. These bubbles are grouped in a color scheme, which correspond to the year of occurence. For cybersecurity professionals, this grouping may provide some insight into cyberattack trends. Due to the user feedback, each bubble includes a short description of the breach.  The CSO graphic was followed by short descripters of each attack, I wanted the graph to be more interactive so the reader would be able to instantly gain more context about the details of each breach. I attempted to show how a single graphic can display pertinent cyberattack information, and may replace the need for a long article and technical description of each attack.
 
-<iframe src="https://public.tableau.com/views/Data_3_0/Story2?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/Data_3_0/Story2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
 Non-Interactive Version:
 ![story 2](https://user-images.githubusercontent.com/40642322/52253599-0c3e4d00-28d7-11e9-8e4a-980d3449e320.png)
