@@ -15,9 +15,9 @@ Conflict: In order to adhere to the new government legislation, companies with b
 Resolution: The GDPR is difficult to measure, however as of February 2019, there have been over 59,000 public breach notifications. These notifications represent the initial step in ensuring that citizens are provided with transparent, timely, and accurate information regarding online privacy and security. 
 
 # Data
-[February 2019 DLA PIPER Data Breach Survey] (https://www.dlapiper.com/en/uk/insights/publications/2019/01/gdpr-data-breach-survey/)
+[February 2019 DLA PIPER Data Breach Survey](https://www.dlapiper.com/en/uk/insights/publications/2019/01/gdpr-data-breach-survey/)
 
-[European Data Protection Supervisor] (https://edps.europa.eu/sites/edp/files/publication/18-03-15_annual_report_2017_en.pdf)
+[European Data Protection Supervisor](https://edps.europa.eu/sites/edp/files/publication/18-03-15_annual_report_2017_en.pdf)
 
-[Cybersecurity Insiders 2018 GDPR Compliance Report] (https://www.cybersecurity-insiders.com/wp-content/uploads/2017/07/2018-GDPR-Compliance-Report.pdf)
+[Cybersecurity Insiders 2018 GDPR Compliance Report](https://www.cybersecurity-insiders.com/wp-content/uploads/2017/07/2018-GDPR-Compliance-Report.pdf)
 
