@@ -14,6 +14,8 @@ Below are my assignments from CMU's Heinz College Spring 2019 Telling Stories wi
 
 ### [OECD Datasets](https://clmoyna.github.io/Data-Stories/OECD_data)
 
+### [Visualizing 21st Century Data Breaches](https://clmoyna.github.io/Data-Stories/21_data_breach)
+
 ### [Final Project - Measuring the GDPR](https://clmoyna.github.io/Data-Stories/final_project_ClaireMoynahan)
       
 
