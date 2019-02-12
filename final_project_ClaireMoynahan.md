@@ -1,7 +1,8 @@
 
 ### Measuring GDPR Effectiveness - Project Outline
 
-
+![1_wl2ie9mxlwdx4ml71d1p9a](https://user-images.githubusercontent.com/40642322/52610786-8e3af280-2e50-11e9-94df-80b787fd6f1b.png)
+https://medium.com/1plusx/eu-general-data-protection-regulation-gdpr-2018-will-be-different-a25bcdef2efe
 
 ### Project Summary
 Nearly one year after its enforcement, General Data Protection Regulation, GDPR, legislation demonstrates that government guidance can successfully direct how public governments and private industry use and store digital information and personal identifiable information (PII). GDPR should encourage citizens, both in the EU and abroad, to take a more active interest in protection mechanisms for their online data and information.
@@ -16,7 +17,7 @@ These 59,000 publicly-disclosed breaches represent the initial step in ensuring 
 
 ### Data
 
-The final project will include a Kaggle database with the details of over 250 data breaches disclosed between 2004-2017. This database includes the entity's Name, Year, Records Lost, Sector, Methods of Leak, Source of the Leak. This Kaggle dataset provides evidence towards the level of personal privacy that citizens all over the world have lost due to data breaches and unauthorized information disclosures, and it  will be compared to the complaints listed in the EUDPS 2017 Annual Report. The EUDPS 2017 Annual Report data included in this report has been gleaned to reflect EU citizens' most common complaints in 2017, one year prior to the enforcement of EUDPS GDPR legislation. The final dataset is a survey commissioned by DLA Piper Global Law Firm that highlights the publicly disclosed breaches and locations from May 25,2018 - present.
+The final project will include a Kaggle database with the details of over 250 data breaches disclosed between 2004-2017. This database includes the entity's Name, Year, Records Lost, Sector, Methods of Leak, Source of the Leak. This Kaggle dataset provides evidence towards the level of personal privacy that citizens all over the world have lost due to data breaches and unauthorized information disclosures, and it  will be compared to the complaints listed in the EUDPS 2017 Annual Report. The EUDPS 2017 Annual Report data included in this report has been gleaned to reflect EU citizens' most common complaints in 2017, one year prior to the enforcement of EUDPS GDPR legislation. The Kaggle and EUDPS datasets will be compared to a survey commissioned by DLA Piper Global Law Firm that highlights the publicly disclosed breaches and locations from May 25,2018 - present. The survey will demonstrate how GDPR legislation represents a successful government response to citizens' data privacy concerns.
 
 [2004-2017 Kaggle Data Breach Dataset](https://www.kaggle.com/estratic/data-breaches-2004-2017-en-20180218)
 
