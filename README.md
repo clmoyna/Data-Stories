@@ -68,6 +68,6 @@ Similar to the wireframe, the redesign displays a packed bubble chart. Unlike th
 Non-Interactive Version:
 ![story 2](https://user-images.githubusercontent.com/40642322/52253599-0c3e4d00-28d7-11e9-8e4a-980d3449e320.png)
 
-[Final Project - Measuring the GDPR](https://clmoyna.github.io/Data-Stories/final_project_ClaireMoynahan)
+### [Final Project - Measuring the GDPR](https://clmoyna.github.io/Data-Stories/final_project_ClaireMoynahan)
       
 
