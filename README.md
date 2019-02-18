@@ -18,4 +18,4 @@ Below are my assignments from CMU's Heinz College Spring 2019 Telling Stories wi
 
 ### [Final Project - Measuring the GDPR](https://clmoyna.github.io/Data-Stories/final_project_ClaireMoynahan)
       
-### [Final Project - Measuring the GDPR with Storyboards]
+### [Final Project - Measuring the GDPR with Storyboards](https://clmoyna.github.io/Data-Stories/final_project_ii_Moynahan)
