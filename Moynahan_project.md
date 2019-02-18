@@ -27,5 +27,11 @@ Part II.
 
 The EU citizen complaints will be represented by 8 individuals of different sizes that correspond to the percent of complaints recieved by the EUDPS. 
 
+![complaints](https://user-images.githubusercontent.com/40642322/52979477-c936ac00-33a3-11e9-9d80-bd5bc373812e.PNG)
+
+Part III.
+
+The below graph will show how GDPR legislation has effectively increased the number of breach disclosures in the EU; those disclosures provide EU citizens with more awareness about their digital data security.
+
 <div class="infogram-embed" data-id="6245c5cf-49d5-486f-8172-6a2e986d247a" data-type="interactive" data-title="EU Data Breaches"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6245c5cf-49d5-486f-8172-6a2e986d247a" style="color:#989898!important;text-decoration:none!important;" target="_blank">EU Data Breaches</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
