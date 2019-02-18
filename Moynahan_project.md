@@ -15,3 +15,9 @@ c. Who is the target audience?
 
 d. What is the call to action?
 
+# Interviewee Responses
+
+All three users had confusion about why the US wasn’t present in the bottom graph. The bottom graph lacked labels so they were confused about what the breaches represented and why the US wasn’t represented on the bottom graph. They questioned what companies were breached, and why that information wasn’t present. 
+As the author of the page, I recognized that the data was disjointed and not clearly synced to a concise argument. I want the reader to see where data breaches were previously disclosed, read users’ complaints about data privacy, then see how the passing of the GDPR resulted in a significant increase in breach disclosures across the EU. I plan to accomplish that by displaying previous breaches on a map, highlighting the number from the EU. I will compare those numbers with the current EU breach disclosures from 2018-2019. Both datasets will be displaced on maps, with only the EU countries highlighted in color. The complaints will introduce the second map as the impetus for the change that resulted in GDPR legislation.  
+
+
