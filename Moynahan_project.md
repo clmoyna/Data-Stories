@@ -51,3 +51,7 @@ After the enforcement of GDPR there was much debate about whether companies woul
 
 In order to tell a story from the data, I designed numerous wire frames attempting to simplify the data in order to tell a story, while preserving the data's meaning. Ultimately, it was user feedback that directed my drafts to ensure that my users could understand and follow the story's content. Looking back on the process, I also recognize how difficult it was to compress the data and background into a brief yet meaningful presentation. In addition, sometimes the tools that I wanted to use didn't include the functionality that I envisioned, so I made numerous charts and graphs on different tools, comparing them for aesthetics and usabilty. Ultimately, my final draft utilizes Shorthand, Infogram, and Datawrapper. 
 
+# Final Data Story
+
+https://carnegiemellon.shorthandstories.com/cmoynaha/index.html
+
